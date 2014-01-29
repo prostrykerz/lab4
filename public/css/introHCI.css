@@ -33,3 +33,20 @@
 .project a {
      text-align: center;
 }
+
+body {
+     border: 1px dotted gray;
+     padding: 20px;
+     background-image: -webkit-linear-gradient(left, #FFFFFF 0%, #00A3EF 100%);
+
+}
+
+.project a {
+     text-align: center;
+}
+
+.project{
+     width:550px;
+     display: inline-block;
+}
+
